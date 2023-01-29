@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="100"/>
 </div>
 https://img.shields.io/badge/LinkedIn-blue
 Computer Engineering undergraduating from UTA.
