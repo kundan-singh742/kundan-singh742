@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 ------------------------------------
 #### Familiar with:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="(https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?w=256&f=avif)"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?w=256&f=avif"/>
 
 
 
