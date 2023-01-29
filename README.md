@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="200"/>
 </div>
 
-Computer Engineering undergraduating from UTA.
+### Languages and Tools
+------------------------------------
+#### Familiar with:
 
 </p>
 <p align='center'>
