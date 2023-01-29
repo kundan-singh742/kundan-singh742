@@ -9,7 +9,7 @@ I am Kundan singh Mahato.
 ### Languages and Tools
 ------------------------------------
 #### Familiar with:
-<img height=50 src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?w=256&f=avif"/><img height=50 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fanswers%2F20-how-do-i-make-a-desktop-launcher-for-matlab-in-linux&psig=AOvVaw3CWdLbMTW62yRk8riNht3h&ust=1675044309844000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDVn9DY6_wCFQAAAAAdAAAAABAE"/>
+<img height=50 src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?w=256&f=avif"/><img height=50 src="https://www.svgrepo.com/show/373830/matlab.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
 
@@ -25,6 +25,4 @@ I am Kundan singh Mahato.
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red" />
 </a>&nbsp;&nbsp;
   
- <a href="https://twitter.com/codemaker2014">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
-  </a>
+
