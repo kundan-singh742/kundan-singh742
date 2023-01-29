@@ -1,6 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kundan Singh Mahato</h1>
+<h3 align="center">A passionate student from Nepal.</h3>
 
-I am Kundan singh Mahato.
+- 🌱 I’m currently learning about **Embedded Systems, Machine Learning, Operating Systems, Signal Processing.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/kundan-singh742](https://github.com/kundan-singh742)
+
+- 💬 Ask me about **anything. I am open.**
+
+- 📫 How to reach me **singhkundan742@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny.**
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="200"/>
@@ -18,6 +27,8 @@ I am Kundan singh Mahato.
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+
+
 
 </p>
 <p align='center'>
