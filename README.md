@@ -24,3 +24,7 @@ I am Kundan singh Mahato.
 <a href="https://www.linkedin.com/in/kundan-singh-mahato-634641184/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red" />
 </a>&nbsp;&nbsp;
+  
+ <a href="https://twitter.com/codemaker2014">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+  </a>
