@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Computer Engineering undergraduating from UTA.
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+
