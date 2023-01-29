@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif" width="1000"/>
 </div>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<BLACK>
 Computer Engineering undergraduating from UTA.
