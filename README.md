@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 ------------------------------------
 #### Familiar with:
-<img height=50 src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?w=256&f=avif"/><img height=50 src="https://en.wikipedia.org/wiki/MATLAB#/media/File:Matlab_Logo.png"/>
+<img height=50 src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png?w=256&f=avif"/><img height=50 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fanswers%2F20-how-do-i-make-a-desktop-launcher-for-matlab-in-linux&psig=AOvVaw3CWdLbMTW62yRk8riNht3h&ust=1675044309844000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDVn9DY6_wCFQAAAAAdAAAAABAE"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
 
