@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kundan Singh Mahato</h1>
 <h3 align="center">A passionate student from Nepal.</h3>
 
-- 🌱 I’m currently learning about **Embedded Systems, Machine Learning, Operating Systems, Signal Processing.**
+- 🌱 I’m currently learning about **Embedded Systems, Electronics, Operating Systems, Signal Processing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kundan-singh742](https://github.com/kundan-singh742)
 
